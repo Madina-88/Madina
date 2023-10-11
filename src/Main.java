@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Madina");
         System.out.println("asad");
         System.out.println("asdsad");
+        System.out.println("Madina 22");
         }
     }
